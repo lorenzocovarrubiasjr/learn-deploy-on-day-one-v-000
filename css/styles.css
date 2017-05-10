@@ -1,3 +1,4 @@
+http://i.imgur.com/uYSisOd.jpg
 
 /* GLOBAL STYLES
 ======================== */
@@ -132,6 +133,13 @@ a:visited {
   display: block;
   height: 400px;
 }
+#lorenzo-covarrubias-card {
+  background-image: url("http://i.imgur.com/uYSisOd.jpg");
+}
+#lorenzo-covarrubias-cover {
+    background-image: url("http://i.imgur.com/kFQ5O8c.jpg");
+}
+
 
 #irina-afanaseva-cover {
     background-image: url("http://i.imgur.com/0mb6WMf.jpg");
